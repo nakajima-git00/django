@@ -1,0 +1,12 @@
+{
+  "name":"Django Web",
+  "dockerCompseFile":"docker-compse.yml",
+  "service":"web",
+  "workspaceFolder":"/home/user1/dev",
+  "extnsions":[
+    "ms-python.python"
+  ],
+  "settings":{
+    "editor.tabSize": 2
+  }
+}
